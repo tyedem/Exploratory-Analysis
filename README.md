@@ -2,7 +2,7 @@
 
 # Description
 
-Exploratory analysis with an e-commerce Kaggle dataset. Comparatice RFM analysis is conducted with quartile breaks and jenks-fisher natural breaks. Various metrics calculations are explored.
+Exploratory analysis with an e-commerce Kaggle dataset. Comparative RFM analysis is conducted with quartile breaks and jenks-fisher natural breaks. Various metrics calculations are explored.
 
 # Resources
 
