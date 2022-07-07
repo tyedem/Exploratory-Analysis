@@ -6,4 +6,4 @@ Exploratory analysis with an e-commerce Kaggle dataset. Comparatice RFM analysis
 
 # Resources
 
-1) thttps://towardsdatascience.com/rfm-segmentation-using-quartiles-and-jenks-natural-breaks-924f4d8baee1
+1) https://towardsdatascience.com/rfm-segmentation-using-quartiles-and-jenks-natural-breaks-924f4d8baee1
